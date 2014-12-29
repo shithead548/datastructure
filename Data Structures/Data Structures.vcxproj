@@ -80,6 +80,7 @@
   <ItemGroup>
     <ClInclude Include="arrList.h" />
     <ClInclude Include="List.h" />
+    <ClInclude Include="lnkList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
